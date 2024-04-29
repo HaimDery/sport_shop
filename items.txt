@@ -1,0 +1,8 @@
+Catalog_Number       brand                price                Description          inventory            enterDate           
+1                    Adidas               850.00               LiteRacer992         151                  18/04/2024
+2                    Adidas               700.00               drifit               107                  18/04/2024
+3                    newbalnce            350.00               Shoes                140                  23/04/2024
+4                    Nike                 600.00               Sportsuit_1          118                  25/04/2024
+5                    Nike                 480.00               SportSuits           228                  28/04/2024
+6                    nike                 460.00               shoes                200                  29/04/2024
+7                    Adidas               680.00               RunnigShoes          143                  28/04/2024

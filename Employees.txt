@@ -1,0 +1,6 @@
+username        password        level fullname                 
+admin           admin           3   System_Manager           
+yarin           123             3   yarinhadar               
+adi             123             1   adihadar                 
+yarinav         123             2   yarin                    
+haim            123             3   haimderi                 
